@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I’m **Abhishek**, an enthusiastic and driven **Master’s student in Data Science & Artificial Intelligence**, graduating in **2027**. I’m passionate about building intelligent, data-driven systems and solving real-world problems using Machine Learning and Deep Learning.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksahaha/aksahaha/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aksahaha/aksahaha/output/github-snake.svg" />
