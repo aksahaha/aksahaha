@@ -16,11 +16,7 @@ I’m **Abhishek**, an enthusiastic and driven **Master’s student in Data Scie
 - 📊 Enjoy transforming complex datasets into **meaningful and actionable insights**
 - 📚 Research-oriented mindset with hands-on project experience
 
- ### 🔭 What I’m Currently Working On
-- Vision-Language Models (VLMs)
-- ML/DL model development and evaluation
-- Data preprocessing, feature engineering, and experimentation
-- Research-driven AI projects and reproducible pipelines
+
 
 
 <!--
